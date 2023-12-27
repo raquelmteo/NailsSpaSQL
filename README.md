@@ -1,3 +1,5 @@
+This is a project that demonstrates a relational model by applying transformation steps to the entity-relationships model and scripting the defined tables in SQL.
+
 An owner of a Beauty Spa would like an Information System for
 Generate data from your store's attendances. The spa has several services with different values
 of billing. Some employees cater to all specialties and others do not. Each service
